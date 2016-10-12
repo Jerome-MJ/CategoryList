@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="horizontal"
+              android:layout_width="match_parent"
+              android:background="#f7f7f7"
+              android:layout_height="match_parent">
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/main_left_rv"
+        android:layout_width="100dp"
+        android:layout_height="match_parent"/>
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/main_right_rv"
+        android:background="#FFF"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+
+</LinearLayout>

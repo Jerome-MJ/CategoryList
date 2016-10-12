@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:app="http://schemas.android.com/apk/res-auto"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content">
+    <TextView
+        android:id="@+id/item_main_right_title"
+        android:text="口服药"
+        android:layout_margin="17dp"
+        android:layout_width="wrap_content"
+        android:textSize="13sp"
+        android:layout_height="wrap_content"/>
+
+    <com.zhy.view.flowlayout.TagFlowLayout
+        android:id="@+id/item_main_right_taglayout"
+        android:layout_width="match_parent"
+        android:layout_marginLeft="20dp"
+        app:max_select="-1"
+        android:layout_marginRight="20dp"
+        android:layout_height="wrap_content"/>
+
+</LinearLayout>
