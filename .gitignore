@@ -8,3 +8,5 @@
 /captures
 .externalNativeBuild
 /.idea/
+app/libs/
+app/src/main/res/layout-w900dp/
