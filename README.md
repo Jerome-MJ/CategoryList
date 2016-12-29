@@ -11,5 +11,4 @@
 * 流标签控件：https://github.com/hongyangAndroid/FlowLayout
 
 ##截图
-![img](http://github.com/Jerome-MJ/CategoryList/raw/master/screenshots/WechatIMG3.jpeg)
-
+![img](https://github.com/Jerome-MJ/CategoryList/raw/master/screenshots/WechatIMG3.jpeg)
